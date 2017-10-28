@@ -1,0 +1,7 @@
+{
+  "name" : "letscodehu/dummy-presentation-layer",
+  "version" : "1.0.0",
+  "require" : {
+      "letscodehu/presentation-layer-api" : "^1.0.0"
+  }
+}
