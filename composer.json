@@ -1,0 +1,7 @@
+{
+  "name" : "letscodehu/dummy-persistence-layer",
+  "version" : "1.0.0",
+  "require" : {
+      "letscodehu/persistence-layer-api" : "^1.0.0"
+  }
+}
