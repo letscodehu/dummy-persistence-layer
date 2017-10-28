@@ -1,5 +1,6 @@
 <?php
 
+namespace Letscodehu;
 
 class SqlUserDao implements UserDao
 {
